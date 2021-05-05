@@ -1,0 +1,10 @@
+C:\Users\Aksoy\Desktop\ArduinoProje\ArduinoProject\ArduinoProject\bin\Debug\ArduinoProject.exe.config
+C:\Users\Aksoy\Desktop\ArduinoProje\ArduinoProject\ArduinoProject\bin\Debug\ArduinoProject.exe
+C:\Users\Aksoy\Desktop\ArduinoProje\ArduinoProject\ArduinoProject\bin\Debug\ArduinoProject.pdb
+C:\Users\Aksoy\Desktop\ArduinoProje\ArduinoProject\ArduinoProject\obj\Debug\ArduinoProject.csprojAssemblyReference.cache
+C:\Users\Aksoy\Desktop\ArduinoProje\ArduinoProject\ArduinoProject\obj\Debug\ArduinoProject.Form1.resources
+C:\Users\Aksoy\Desktop\ArduinoProje\ArduinoProject\ArduinoProject\obj\Debug\ArduinoProject.Properties.Resources.resources
+C:\Users\Aksoy\Desktop\ArduinoProje\ArduinoProject\ArduinoProject\obj\Debug\ArduinoProject.csproj.GenerateResource.cache
+C:\Users\Aksoy\Desktop\ArduinoProje\ArduinoProject\ArduinoProject\obj\Debug\ArduinoProject.csproj.CoreCompileInputs.cache
+C:\Users\Aksoy\Desktop\ArduinoProje\ArduinoProject\ArduinoProject\obj\Debug\ArduinoProject.exe
+C:\Users\Aksoy\Desktop\ArduinoProje\ArduinoProject\ArduinoProject\obj\Debug\ArduinoProject.pdb
